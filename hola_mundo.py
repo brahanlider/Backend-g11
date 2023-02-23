@@ -1,2 +1,6 @@
-print('Hola mundo')
-print("Hola mundo")
+print('1 Hola mundo')
+print("2 Hola mundo")
+
+print({
+    'nombre': 'LLAVES Hola mundo'
+})
